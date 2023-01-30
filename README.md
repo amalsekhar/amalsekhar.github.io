@@ -1,30 +1,44 @@
-[![HitCount](http://hits.dwyl.com/ishandeveloper/Portfolio.svg)](http://hits.dwyl.com/ishandeveloper/Portfolio)
-## Portfolio [Progressive Web App]
-#### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
-##### Optimized For Github Pages
+# vCard - Personal portfolio
 
-<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/1.png?raw=false">
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-<pre>P.S. This project is still in development phase.</pre>
-<pre><a href="https://ishandeveloper.com/Portfolio/">VIEW LIVE DEMO</a></pre>
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-### TECHNOLOGIES USED
-* HTML5
-* CSS
-* JAVASCRIPT
-* BOOTSTRAP
-* FONT AWESOME 5
+## Demo
 
-##### [Desktop]
-<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/1.png?raw=false" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/3.png?raw=false" width="45%">
-##### [Mobile]
-<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/1-mobile.png?raw=false" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/3-mobile.png?raw=false" width="20%">
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-### Just a sidenote ✉
-I value keeping this site open source, but as you all know, plagiarism is bad. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
+## Prerequisites
 
-So, feel free to fork this repo. If you do, please just give me proper credit by linking back to my website.
+Before you begin, ensure you have met the following requirements:
 
-##### Made with ❤ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+This project is **free to use** and does not contains any license.
